@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="15B42" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Questions" representedClassName="Questions" syncable="YES">
+        <attribute name="answer" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="optionA" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="optionB" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="optionC" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="optionD" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="qid" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="question" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Questions" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>
